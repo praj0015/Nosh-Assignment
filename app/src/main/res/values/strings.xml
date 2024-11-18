@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cook_now_text">Cook Now</string>
+    <string name="reschedule_text">Re-schedule</string>
+    <string name="delete_text">Delete</string>
+    <string name="cooking_time_text">Schedule cooking time</string>
+    <string name="what_on_mind_text">What\'s on your mind?</string>
+    <string name="explore_all_dishes_text">Explore all dishes</string>
+    <string name="what_to_cook_text">Confused what to cook</string>
+</resources>
